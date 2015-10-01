@@ -4,4 +4,5 @@ class CreateCats < ActiveRecord::Migration
       t.string :name
     end
   end
+  
 end
